@@ -1,0 +1,4 @@
+here i his repository will will clear 
+all the basics and advance topics of python 
+
+json = javascript object notation
