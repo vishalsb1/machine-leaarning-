@@ -1,0 +1,14 @@
+apis
+
+application programming interface
+
+requests.json()-> kela ki aplela data output milto ani tyat jar
+                  vegvegle key asle tr te apan 
+                  requests.json()['value_name'] hyani tyachi value gheu sakto 
+
+api che server code 
+      1xx  -> wait a bit
+      2xx  -> here u go ,sagla neet challay
+      3xx  -> go away / kai tr shot
+      4xx  -> something not found
+      5xx  -> fetching a server content [je apan nhi gheu sakt ] or website cha server cha problem
